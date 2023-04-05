@@ -1,0 +1,8 @@
+## VSCODE IDE
+/.VSCODE
+
+## VIRTUAL ENVS
+/venv
+
+## project specific - key files
+*.pem
